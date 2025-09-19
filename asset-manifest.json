@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TooCool/static/css/main.3a1f52bc.css",
-    "main.js": "/TooCool/static/js/main.eb6c6dc2.js",
+    "main.js": "/TooCool/static/js/main.a8d4b3d1.js",
     "index.html": "/TooCool/index.html",
     "main.3a1f52bc.css.map": "/TooCool/static/css/main.3a1f52bc.css.map",
-    "main.eb6c6dc2.js.map": "/TooCool/static/js/main.eb6c6dc2.js.map"
+    "main.a8d4b3d1.js.map": "/TooCool/static/js/main.a8d4b3d1.js.map"
   },
   "entrypoints": [
     "static/css/main.3a1f52bc.css",
-    "static/js/main.eb6c6dc2.js"
+    "static/js/main.a8d4b3d1.js"
   ]
 }
